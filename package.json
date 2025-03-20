@@ -1,0 +1,15 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "slack bot for anniversary and birthday",
+  "main": "index.js",
+  "author": "gab",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/web-api": "^7.9.0",
+    "axios": "^1.8.4",
+    "date-fns": "^4.1.0",
+    "dotenv": "^16.4.7",
+    "node-schedule": "^2.1.1"
+  }
+}
